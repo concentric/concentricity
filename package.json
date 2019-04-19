@@ -1,0 +1,21 @@
+{
+    "name": "concentricity",
+    "displayName": "Concentricity",
+    "description": "Colorful dark coding theme made for python",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "concentricity",
+                "uiTheme": "vs-dark",
+                "path": "./themes/concentricity-color-theme.json"
+            }
+        ]
+    }
+}
